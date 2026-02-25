@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e2a92a-0a9f-4e37-9304-83843227ef87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PalindromeApp/src/PalindromeCheckerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1e2a92a-0a9f-4e37-9304-83843227ef87" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/dev/Desktop/stepclass/PalindromeCheckerAPP_Batch1_RA2411026011422",
@@ -69,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1771405756033</updated>
       <workItem from="1771405757396" duration="6032000" />
-      <workItem from="1772009872586" duration="1999000" />
+      <workItem from="1772009872586" duration="2317000" />
     </task>
     <servers />
   </component>
